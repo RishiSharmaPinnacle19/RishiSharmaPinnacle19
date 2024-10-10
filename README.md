@@ -1,11 +1,11 @@
 
 # Hi there, I'm Rishi Sharma! 👋
 
-I'm a passionate software developer specializing in backend development. With experience in Node.js, MongoDB, and RESTful APIs, I love building scalable and efficient solutions. I'm always exploring new technologies.
+I'm a hardworking and passionate junior software developer at the fresher level, constantly learning and exploring new technologies. I’m focused on building myself and growing my skills in backend development, cloud platforms, and more. My journey is driven by curiosity and the desire to create efficient and scalable solutions and always exploring new technologies.
 
 ## 🚀 Skills & Technologies
 
-- **Languages**: JavaScript, Node.js, SQL, Python
+- **Languages**: JavaScript, Node.js, SQL
 - **Databases**: MongoDB, MySQL, Redis
 - **Tools**: Git, Postman, Visual Studio Code
 - **Frameworks**: Express.js, Mongoose, Redis Bull
