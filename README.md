@@ -18,7 +18,7 @@ I'm a passionate software developer specializing in backend development. With ex
 
 ## 📫 Get in Touch
 
-- Email: [your-email@example.com](rishi.sharma@pinnacle.in)
+- Email: rishi.sharma@pinnacle.in
 
 ## 🎯 Fun Facts
 
